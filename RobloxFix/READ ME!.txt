@@ -1,0 +1,12 @@
+Hey! This fixes roblox launcher from kicking you out of the game for "Unexpected Client Behavior", Error code 268.
+
+First, run UnexpectedClientBehaviorRemover.
+When there is gonna be a command prompt asking for
+- admin permissions
+ACCEPT, IT HELPS TO FIX THE UNEXPECTED CLIENT BEHAVIOR MUCH BETTER.
+
+To 100% remove Unexpected Client Behavior, make sure that:
+- You have Python
+- Follow this steps
+If you wan't to get python, paste this in URL and enter (or click if u are reading this from github repo) this:
+https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
